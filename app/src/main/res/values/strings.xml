@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ClassON</string>
+    <string name="title_activity_student_home">StudentHomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="weeks">
+        <item>Week 1</item>
+        <item>Week 2</item>
+        <item>Week 3</item>
+        <item>Week 5</item>
+        <item>Week 6</item>
+        <item>Week 8</item>
+        <item>Week 9</item>
+        <item>Week 10</item>
+        <item>Week 11</item>
+        <item>Week 12</item>
+        <item>Week 13</item>
+        <item>Week 14</item>
+        <item>Week 15</item>
+    </string-array>
+    <string name="title_activity_fac_home">FacHomeActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+</resources>
